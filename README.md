@@ -22,9 +22,9 @@ Primero, clona el repositorio a tu máquina local:
 `cd crud-react`  
 3. Instalar las dependencias  
 `npm install`  
-4. Correr el proyecto localmente
-`npm run dev`
-
+4. Correr el proyecto localmente  
+`npm run dev`  
+  
 ##  Decisiones técnicas  
 1. Uso de Tailwind CSS  
 Optamos por usar Tailwind CSS debido a su capacidad para diseñar de manera rápida y flexible con clases utilitarias. Esto nos permite crear diseños personalizados sin la sobrecarga de CSS adicional o archivos de estilos complejos. Tailwind facilita la personalización y mantiene nuestro CSS limpio y fácil de mantener.  
