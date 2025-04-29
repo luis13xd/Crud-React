@@ -10,7 +10,8 @@ Context API: Sistema para manejar el estado global de la aplicación sin la nece
   
 React Lazy Loading & Suspense: Optimización de carga de componentes para mejorar el rendimiento de la aplicación.  
     
-[Link de la web desplegada en Netlify](https://www.ejemplo.com](https://productos-crud-react.netlify.app/))
+## Link de la web desplegada en Netlify
+`https://www.ejemplo.com](https://productos-crud-react.netlify.app/`
 
   
 ## Instrucciones de instalación  
